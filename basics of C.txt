@@ -1,0 +1,26 @@
+	1)arthematic ops:
+		+,-,%,*,/,
+		a=10,b=3;
+		a/b=3
+		a%b=1
+		a=1947
+		a%10=7
+		a/10=194
+	2)logical ops
+	and &&
+	or||
+	not
+	exp1 exp2 exp1&&exp2 exp1||exp2 !exp1
+	T    T    T            t      T
+	T    T    F          T          F
+	f    t    f          t          t
+	f    f    f          f          t
+	3) relational ops
+	< <= > >= == !=
+	4) assignment ops
+	=
+	+=,-=,*=,/=,%= // compound assignments
+	a+=b------>a=a+b
+	5)size of ()
+	used to find the size of data types /literals means constants/ variables
+	
