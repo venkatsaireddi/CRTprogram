@@ -1,0 +1,24 @@
+control structures
+A.conditional control structures
+1)for loop
+2)while loop
+3)do -while loop
+B.unconditional control structures
+4)break
+5)continue
+C.unconditiional uncontrol structures
+6)goto
+
+
+for loop syntax:
+	syn:
+	for(intilization;condition;inc/dec)
+
+	 statement;
+
+	for(intilization;condition;inc/dec)
+	{
+	 statement-1;
+ 	statement-2;
+............ statement-X;
+	}0000000
